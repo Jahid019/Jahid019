@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid019&label=Profile%20views&color=0e75b6&style=flat" alt="jahid019" /> </p>
 
-- 🔭 I’m currently working on **Learning Automation testing**
+- 🔭 I’m currently working on **Software development engineering in Testing**
 
 - 🌱 I’m currently learning **AUTOMATION For software Testing**
 
